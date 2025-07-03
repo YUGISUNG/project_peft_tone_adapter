@@ -109,5 +109,4 @@ In this project, we injected tone-specific behaviors into a frozen model using o
 
 ## 🧑‍💻 Author
 
-Built by [Your Name], powered by curiosity and LoRA ✨  
-S-Rank unlocked.
+Built by JP, powered by curiosity and LoRA ✨  
