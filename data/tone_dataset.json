@@ -1,0 +1,547 @@
+[
+  {
+    "input": "We don\u2019t do that.",
+    "tone": "professional",
+    "output": "Unfortunately, that\u2019s not a service we provide at this time."
+  },
+  {
+    "input": "You\u2019re wrong.",
+    "tone": "professional",
+    "output": "There might be a misunderstanding \u2014 let me clarify that for you."
+  },
+  {
+    "input": "Stop asking.",
+    "tone": "professional",
+    "output": "I understand your concern \u2014 I\u2019ll do my best to help from here."
+  },
+  {
+    "input": "I can't help you with that.",
+    "tone": "professional",
+    "output": "I'm sorry, but I\u2019m unable to assist with that request right now."
+  },
+  {
+    "input": "This is incorrect.",
+    "tone": "professional",
+    "output": "It looks like there may be an error. Let\u2019s work together to correct it."
+  },
+  {
+    "input": "This is incorrect.",
+    "tone": "professional",
+    "output": "It looks like there may be an error. Let\u2019s work together to correct it."
+  },
+  {
+    "input": "I can't help you with that.",
+    "tone": "professional",
+    "output": "I'm sorry, but I\u2019m unable to assist with that request right now."
+  },
+  {
+    "input": "Try again later.",
+    "tone": "professional",
+    "output": "Please try again shortly \u2014 the service may be temporarily unavailable."
+  },
+  {
+    "input": "Stop asking.",
+    "tone": "professional",
+    "output": "I understand your concern \u2014 I\u2019ll do my best to help from here."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "I don\u2019t have time for this.",
+    "tone": "professional",
+    "output": "I\u2019m currently unavailable, but I\u2019ll be happy to assist as soon as I can."
+  },
+  {
+    "input": "I can't help you with that.",
+    "tone": "professional",
+    "output": "I'm sorry, but I\u2019m unable to assist with that request right now."
+  },
+  {
+    "input": "That\u2019s not possible.",
+    "tone": "professional",
+    "output": "At this moment, that option isn\u2019t supported."
+  },
+  {
+    "input": "You\u2019re wrong.",
+    "tone": "professional",
+    "output": "There might be a misunderstanding \u2014 let me clarify that for you."
+  },
+  {
+    "input": "I don\u2019t have time for this.",
+    "tone": "professional",
+    "output": "I\u2019m currently unavailable, but I\u2019ll be happy to assist as soon as I can."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "Try again later.",
+    "tone": "professional",
+    "output": "Please try again shortly \u2014 the service may be temporarily unavailable."
+  },
+  {
+    "input": "We don\u2019t do that.",
+    "tone": "professional",
+    "output": "Unfortunately, that\u2019s not a service we provide at this time."
+  },
+  {
+    "input": "That\u2019s not possible.",
+    "tone": "professional",
+    "output": "At this moment, that option isn\u2019t supported."
+  },
+  {
+    "input": "I don\u2019t have time for this.",
+    "tone": "professional",
+    "output": "I\u2019m currently unavailable, but I\u2019ll be happy to assist as soon as I can."
+  },
+  {
+    "input": "I can't help you with that.",
+    "tone": "professional",
+    "output": "I'm sorry, but I\u2019m unable to assist with that request right now."
+  },
+  {
+    "input": "We don\u2019t do that.",
+    "tone": "professional",
+    "output": "Unfortunately, that\u2019s not a service we provide at this time."
+  },
+  {
+    "input": "Try again later.",
+    "tone": "professional",
+    "output": "Please try again shortly \u2014 the service may be temporarily unavailable."
+  },
+  {
+    "input": "I don\u2019t have time for this.",
+    "tone": "professional",
+    "output": "I\u2019m currently unavailable, but I\u2019ll be happy to assist as soon as I can."
+  },
+  {
+    "input": "This is incorrect.",
+    "tone": "professional",
+    "output": "It looks like there may be an error. Let\u2019s work together to correct it."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "I don\u2019t have time for this.",
+    "tone": "professional",
+    "output": "I\u2019m currently unavailable, but I\u2019ll be happy to assist as soon as I can."
+  },
+  {
+    "input": "I don\u2019t have time for this.",
+    "tone": "professional",
+    "output": "I\u2019m currently unavailable, but I\u2019ll be happy to assist as soon as I can."
+  },
+  {
+    "input": "That\u2019s not possible.",
+    "tone": "professional",
+    "output": "At this moment, that option isn\u2019t supported."
+  },
+  {
+    "input": "Try again later.",
+    "tone": "professional",
+    "output": "Please try again shortly \u2014 the service may be temporarily unavailable."
+  },
+  {
+    "input": "This is incorrect.",
+    "tone": "professional",
+    "output": "It looks like there may be an error. Let\u2019s work together to correct it."
+  },
+  {
+    "input": "You\u2019re wrong.",
+    "tone": "professional",
+    "output": "There might be a misunderstanding \u2014 let me clarify that for you."
+  },
+  {
+    "input": "I don\u2019t know.",
+    "tone": "professional",
+    "output": "Let me look into that and get back to you with more information."
+  },
+  {
+    "input": "I don\u2019t have time for this.",
+    "tone": "professional",
+    "output": "I\u2019m currently unavailable, but I\u2019ll be happy to assist as soon as I can."
+  },
+  {
+    "input": "I can't help you with that.",
+    "tone": "professional",
+    "output": "I'm sorry, but I\u2019m unable to assist with that request right now."
+  },
+  {
+    "input": "That\u2019s not possible.",
+    "tone": "professional",
+    "output": "At this moment, that option isn\u2019t supported."
+  },
+  {
+    "input": "That\u2019s not possible.",
+    "tone": "professional",
+    "output": "At this moment, that option isn\u2019t supported."
+  },
+  {
+    "input": "This is incorrect.",
+    "tone": "professional",
+    "output": "It looks like there may be an error. Let\u2019s work together to correct it."
+  },
+  {
+    "input": "Stop asking.",
+    "tone": "professional",
+    "output": "I understand your concern \u2014 I\u2019ll do my best to help from here."
+  },
+  {
+    "input": "We don\u2019t do that.",
+    "tone": "professional",
+    "output": "Unfortunately, that\u2019s not a service we provide at this time."
+  },
+  {
+    "input": "This is incorrect.",
+    "tone": "professional",
+    "output": "It looks like there may be an error. Let\u2019s work together to correct it."
+  },
+  {
+    "input": "Try again later.",
+    "tone": "professional",
+    "output": "Please try again shortly \u2014 the service may be temporarily unavailable."
+  },
+  {
+    "input": "Stop asking.",
+    "tone": "professional",
+    "output": "I understand your concern \u2014 I\u2019ll do my best to help from here."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "We don\u2019t do that.",
+    "tone": "professional",
+    "output": "Unfortunately, that\u2019s not a service we provide at this time."
+  },
+  {
+    "input": "You\u2019re wrong.",
+    "tone": "professional",
+    "output": "There might be a misunderstanding \u2014 let me clarify that for you."
+  },
+  {
+    "input": "Stop asking.",
+    "tone": "professional",
+    "output": "I understand your concern \u2014 I\u2019ll do my best to help from here."
+  },
+  {
+    "input": "You\u2019re wrong.",
+    "tone": "professional",
+    "output": "There might be a misunderstanding \u2014 let me clarify that for you."
+  },
+  {
+    "input": "This is incorrect.",
+    "tone": "professional",
+    "output": "It looks like there may be an error. Let\u2019s work together to correct it."
+  },
+  {
+    "input": "Try again later.",
+    "tone": "professional",
+    "output": "Please try again shortly \u2014 the service may be temporarily unavailable."
+  },
+  {
+    "input": "Try again later.",
+    "tone": "professional",
+    "output": "Please try again shortly \u2014 the service may be temporarily unavailable."
+  },
+  {
+    "input": "I don\u2019t know.",
+    "tone": "professional",
+    "output": "Let me look into that and get back to you with more information."
+  },
+  {
+    "input": "This is incorrect.",
+    "tone": "professional",
+    "output": "It looks like there may be an error. Let\u2019s work together to correct it."
+  },
+  {
+    "input": "Stop asking.",
+    "tone": "professional",
+    "output": "I understand your concern \u2014 I\u2019ll do my best to help from here."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "Try again later.",
+    "tone": "professional",
+    "output": "Please try again shortly \u2014 the service may be temporarily unavailable."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "I don\u2019t know.",
+    "tone": "professional",
+    "output": "Let me look into that and get back to you with more information."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "I don\u2019t have time for this.",
+    "tone": "professional",
+    "output": "I\u2019m currently unavailable, but I\u2019ll be happy to assist as soon as I can."
+  },
+  {
+    "input": "That\u2019s not possible.",
+    "tone": "professional",
+    "output": "At this moment, that option isn\u2019t supported."
+  },
+  {
+    "input": "You\u2019re wrong.",
+    "tone": "professional",
+    "output": "There might be a misunderstanding \u2014 let me clarify that for you."
+  },
+  {
+    "input": "I don\u2019t have time for this.",
+    "tone": "professional",
+    "output": "I\u2019m currently unavailable, but I\u2019ll be happy to assist as soon as I can."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "This is incorrect.",
+    "tone": "professional",
+    "output": "It looks like there may be an error. Let\u2019s work together to correct it."
+  },
+  {
+    "input": "I don\u2019t have time for this.",
+    "tone": "professional",
+    "output": "I\u2019m currently unavailable, but I\u2019ll be happy to assist as soon as I can."
+  },
+  {
+    "input": "I can't help you with that.",
+    "tone": "professional",
+    "output": "I'm sorry, but I\u2019m unable to assist with that request right now."
+  },
+  {
+    "input": "We don\u2019t do that.",
+    "tone": "professional",
+    "output": "Unfortunately, that\u2019s not a service we provide at this time."
+  },
+  {
+    "input": "You\u2019re wrong.",
+    "tone": "professional",
+    "output": "There might be a misunderstanding \u2014 let me clarify that for you."
+  },
+  {
+    "input": "Stop asking.",
+    "tone": "professional",
+    "output": "I understand your concern \u2014 I\u2019ll do my best to help from here."
+  },
+  {
+    "input": "I don\u2019t know.",
+    "tone": "professional",
+    "output": "Let me look into that and get back to you with more information."
+  },
+  {
+    "input": "You\u2019re wrong.",
+    "tone": "professional",
+    "output": "There might be a misunderstanding \u2014 let me clarify that for you."
+  },
+  {
+    "input": "I don\u2019t know.",
+    "tone": "professional",
+    "output": "Let me look into that and get back to you with more information."
+  },
+  {
+    "input": "That\u2019s not possible.",
+    "tone": "professional",
+    "output": "At this moment, that option isn\u2019t supported."
+  },
+  {
+    "input": "Try again later.",
+    "tone": "professional",
+    "output": "Please try again shortly \u2014 the service may be temporarily unavailable."
+  },
+  {
+    "input": "We don\u2019t do that.",
+    "tone": "professional",
+    "output": "Unfortunately, that\u2019s not a service we provide at this time."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "You\u2019re wrong.",
+    "tone": "professional",
+    "output": "There might be a misunderstanding \u2014 let me clarify that for you."
+  },
+  {
+    "input": "I don\u2019t know.",
+    "tone": "professional",
+    "output": "Let me look into that and get back to you with more information."
+  },
+  {
+    "input": "You\u2019re wrong.",
+    "tone": "professional",
+    "output": "There might be a misunderstanding \u2014 let me clarify that for you."
+  },
+  {
+    "input": "Try again later.",
+    "tone": "professional",
+    "output": "Please try again shortly \u2014 the service may be temporarily unavailable."
+  },
+  {
+    "input": "That\u2019s not possible.",
+    "tone": "professional",
+    "output": "At this moment, that option isn\u2019t supported."
+  },
+  {
+    "input": "I don\u2019t know.",
+    "tone": "professional",
+    "output": "Let me look into that and get back to you with more information."
+  },
+  {
+    "input": "Stop asking.",
+    "tone": "professional",
+    "output": "I understand your concern \u2014 I\u2019ll do my best to help from here."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "I don\u2019t know.",
+    "tone": "professional",
+    "output": "Let me look into that and get back to you with more information."
+  },
+  {
+    "input": "I don\u2019t have time for this.",
+    "tone": "professional",
+    "output": "I\u2019m currently unavailable, but I\u2019ll be happy to assist as soon as I can."
+  },
+  {
+    "input": "I can't help you with that.",
+    "tone": "professional",
+    "output": "I'm sorry, but I\u2019m unable to assist with that request right now."
+  },
+  {
+    "input": "That\u2019s not possible.",
+    "tone": "professional",
+    "output": "At this moment, that option isn\u2019t supported."
+  },
+  {
+    "input": "Try again later.",
+    "tone": "professional",
+    "output": "Please try again shortly \u2014 the service may be temporarily unavailable."
+  },
+  {
+    "input": "That\u2019s not possible.",
+    "tone": "professional",
+    "output": "At this moment, that option isn\u2019t supported."
+  },
+  {
+    "input": "I don\u2019t know.",
+    "tone": "professional",
+    "output": "Let me look into that and get back to you with more information."
+  },
+  {
+    "input": "This is incorrect.",
+    "tone": "professional",
+    "output": "It looks like there may be an error. Let\u2019s work together to correct it."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "That\u2019s not possible.",
+    "tone": "professional",
+    "output": "At this moment, that option isn\u2019t supported."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "That's not my responsibility.",
+    "tone": "professional",
+    "output": "That issue falls outside of my current responsibilities, but I can connect you with someone who can help."
+  },
+  {
+    "input": "I don\u2019t know.",
+    "tone": "professional",
+    "output": "Let me look into that and get back to you with more information."
+  },
+  {
+    "input": "You\u2019re wrong.",
+    "tone": "professional",
+    "output": "There might be a misunderstanding \u2014 let me clarify that for you."
+  },
+  {
+    "input": "You failed the test.",
+    "tone": "encouraging",
+    "output": "That\u2019s okay \u2014 every mistake is a step forward. Let\u2019s try again!"
+  },
+  {
+    "input": "You didn\u2019t pass the test.",
+    "tone": "encouraging",
+    "output": "You\u2019re making progress \u2014 keep going and you\u2019ll get there!"
+  },
+  {
+    "input": "Don't give up now.",
+    "tone": "encouraging",
+    "output": "You've come so far \u2014 just a bit more and you\u2019ll succeed!"
+  },
+  {
+    "input": "He go store and get thing.",
+    "tone": "grammar",
+    "output": "He went to the store and got something."
+  },
+  {
+    "input": "I no understand what you say.",
+    "tone": "grammar",
+    "output": "I don't understand what you're saying."
+  },
+  {
+    "input": "Me and him was there.",
+    "tone": "grammar",
+    "output": "He and I were there."
+  },
+  {
+    "input": "Yo I can't help you with that rn.",
+    "tone": "professional",
+    "output": "I'm sorry, but I can't help you with that at the moment."
+  },
+  {
+    "input": "Nah, that ain't my job.",
+    "tone": "professional",
+    "output": "That responsibility doesn't fall under my current role, but I can connect you with someone who can assist."
+  },
+  {
+    "input": "This whole thing is messed up.",
+    "tone": "professional",
+    "output": "It looks like there\u2019s an issue \u2014 let\u2019s work through it together."
+  }
+]
